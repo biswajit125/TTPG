@@ -1,0 +1,6 @@
+framework module Pods_TTPS {
+  umbrella header "Pods-TTPS-umbrella.h"
+
+  export *
+  module * { export * }
+}

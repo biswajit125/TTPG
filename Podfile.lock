@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.10.2)
+  - iOSDropDown (0.4.0)
+  - IQKeyboardManagerSwift (6.3.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - iOSDropDown
+  - IQKeyboardManagerSwift (= 6.3.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - iOSDropDown
+    - IQKeyboardManagerSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 7193b3b92c74a07f85569e1a6c4f4237291e7496
+  iOSDropDown: ce9daa584eaa5567cafc1b633e3cc7eb6d9cea42
+  IQKeyboardManagerSwift: a8228c257614af98743b4cd8584637025f36358f
+
+PODFILE CHECKSUM: 76467f789339ac906a2f590db3423721491ad73f
+
+COCOAPODS: 1.16.2
